@@ -165,6 +165,14 @@ export const experiences = [
     description:
       "Gestion d'activités de commerce en ligne en tant qu'indépendant.",
   },
+  {
+    role: 'Stagiaire – Développeur Web',
+    company: 'Projet de fin d’étude',
+    period: 'Avril – Juin 2024',
+    type: 'Stage / PFE',
+    description:
+      "Conception et développement d'un site web e-commerce dans le cadre du projet de fin d'études.",
+  },
 ]
 
 export const education = [
