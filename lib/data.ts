@@ -97,6 +97,26 @@ export const skillGroups = [
 
 export const projects = [
   {
+    title: 'Smart School',
+    subtitle: 'Plateforme de gestion scolaire',
+    image: '/projects/smart-school.png',
+    description:
+      'Smart School est une plateforme web de gestion scolaire permettant de gérer les administrateurs, les enseignants, les élèves, les parents, les classes, les devoirs, les notes et les présences. Elle est développée avec Spring Boot et React JS, avec une authentification sécurisée basée sur JWT.',
+    tags: [
+      'Java 21',
+      'Spring Boot',
+      'React JS',
+      'Spring Security',
+      'JWT',
+      'MySQL',
+      'Redis',
+      'Flyway',
+      'Docker',
+      'SonarQube',
+    ],
+    github: 'https://github.com/hatimacharaoui/Smart-School-Management-System',
+  },
+  {
     title: 'LogiTrack',
     subtitle: 'Gestion logistique',
     image: '/projects/logitrack.png',
