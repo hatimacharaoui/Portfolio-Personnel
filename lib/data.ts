@@ -99,7 +99,7 @@ export const projects = [
   {
     title: 'Smart School',
     subtitle: 'Plateforme de gestion scolaire',
-    image: '/projects/smart-school.png',
+    image: '/projects/healthcare.png',
     description:
       'Smart School est une plateforme web de gestion scolaire permettant de gérer les administrateurs, les enseignants, les élèves, les parents, les classes, les devoirs, les notes et les présences. Elle est développée avec Spring Boot et React JS, avec une authentification sécurisée basée sur JWT.',
     tags: [
